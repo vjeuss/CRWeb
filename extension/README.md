@@ -12,6 +12,7 @@ A test website is in receipt.html.
 Simply install (as a dev) the extension on your FF/Chrome. For FF, go to "about:debugging", "This firefox", "Load temporary add-on"
 
 # todo
+- make buttons do something
 - store the receipts, either locally or remotely
 - enrich the information displayed by the extension with external verifications (such as identity of Data Controller)
 
